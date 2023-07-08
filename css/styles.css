@@ -1,0 +1,15 @@
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nota{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
